@@ -1,0 +1,6 @@
+{
+  "name": "HERALYTICS — Decode Data. Uncover the Truth.",
+  "description": "A serious, immersive vintage true-crime investigation and data analytics game for ACM-W Sathyabama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
